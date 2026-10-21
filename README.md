@@ -13,8 +13,11 @@ The reason that this exists is to introduce people to Arch and tools like it, su
 
 Status Key:
 🟢 - This means that the module is tested, and no major changes are being made.
+
 🟡 - This means that the module is in a state of development. Usable, but it is recommended to wait until green. If you are comfortable editing the configurations yourself, then this may not pose as a big problem
+
 🔴 - This means that there are breaking changes/the module is unstable. Your are effectively using something bound to fail, or something that doesn't work correctly.
+
 
 >[!NOTE]
 >There will be a restatement of these statuses in the module's `.md` file.
