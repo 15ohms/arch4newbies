@@ -9,6 +9,12 @@ The reason that this exists is to introduce people to Arch and tools like it, su
 
 
 # Installation
-NOTE: This assumes you know what [pacman](https://wiki.archlinux.org/title/Pacman) is and that you know some very basic bash.
+>[!NOTE]
+>This assumes you know what [pacman](https://wiki.archlinux.org/title/Pacman) is and that you know some very basic bash.
+
+>[!NOTE]
+>If you find that any parts of this guide are incorrectly documented, or need expansion/clarification, please open an issue
+
+
 
 
