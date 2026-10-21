@@ -12,6 +12,7 @@ The reason that this exists is to introduce people to Arch and tools like it, su
 >This section is about the stability of each "module". This section contains a list of all of the "modules" and their status and stability. Due to the nature of open-source, updates to the modules, for example hyprland, may bring breaking changes. In the future the would be a tool to make migration a simple script.
 
 Status Key:
+
 🟢 - This means that the module is tested, and no major changes are being made.
 
 🟡 - This means that the module is in a state of development. Usable, but it is recommended to wait until green. If you are comfortable editing the configurations yourself, then this may not pose as a big problem
