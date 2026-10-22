@@ -37,3 +37,12 @@ Then move the configuration file there
 ```
 mv hyprland.lua ~/.config/hypr/
 ```
+
+Now we have our config in its place, its time to verify that it works.
+Hyprland should automatically reload every time you save changes to the config, but for the first time I recommend running
+```
+hyprctl reload
+```
+
+---
+
