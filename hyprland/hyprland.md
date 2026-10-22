@@ -6,6 +6,10 @@ Hyprland is currently ***YELLOW***
 
 This is because it is still in heavy development, with core features missing
 
+# Resources
+[hyprland wiki](https://wiki.hypr.land/)
+
+
 # Installation
 >[!IMPORTANT]
 >If the below command prompts to install graphics related stuff ***DO NOT CLICK ENTER! PICK THE ONE FOR YOUR GPU BRAND***

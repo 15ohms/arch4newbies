@@ -23,11 +23,7 @@ Status Key:
 >[!NOTE]
 >There will be a restatement of these statuses in the module's `.md` file.
 
-🔴 - `hyprland`
-
-
-# Resource(s)
-- [hyprland wiki](https://wiki.hypr.land/)
+🟡- `hyprland`
 
 
 # Installation
