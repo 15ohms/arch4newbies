@@ -26,6 +26,10 @@ Status Key:
 🔴 - `hyprland`
 
 
+# Resource(s)
+- [hyprland wiki](https://wiki.hypr.land/)
+
+
 # Installation
 >[!NOTE]
 >These assume you know what [pacman](https://wiki.archlinux.org/title/Pacman) is, and some very basic bash.

@@ -2,14 +2,11 @@
 Hyprland is the core of your desktop. Hyprland controls the all of the windows that appear on your screen, their arrangement, etc. Hyprland is also a sort of ecosystem, *but not in the invasive way*. Hyprland has some other applications of its own, such as hyprlauncher and hyprpaper. These have similar looks and feel as hyprland itself, and is more "immersive" in one theme, rather than having different tools have to mimick eachother.
 
 # Status
-Hyprland is currently ***RED***
+Hyprland is currently ***YELLOW***
 
 This is because it is still in heavy development, with core features missing
 
 # Installation
->[!IMPORTANT]
->Installation is currently ***NOT*** recommended!
-
 >[!IMPORTANT]
 >If the below command prompts to install graphics related stuff ***DO NOT CLICK ENTER! PICK THE ONE FOR YOUR GPU BRAND***
 
